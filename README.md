@@ -39,3 +39,5 @@ Lindy's column quotes [lindy.ai](https://www.lindy.ai/) and [the Lindy pricing p
 Run it yourself with the [Kortix self-hosting docs](https://kortix.com/docs/host), read the [Kortix docs](https://kortix.com/docs), or [try Kortix](https://kortix.com) on the managed cloud. The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
 The comparison site behind this repository is [lindyalternative.com](https://lindyalternative.com), and its head-to-head page is [lindyalternative.com/kortix-vs-lindy](https://lindyalternative.com/kortix-vs-lindy).
+
+The head-to-head against the hosted automation platform is at [lindyalternative.com/lindy-vs-zapier](https://lindyalternative.com/lindy-vs-zapier), and the one against the self-hostable workflow tool is at [lindyalternative.com/lindy-vs-n8n](https://lindyalternative.com/lindy-vs-n8n). To weigh the subscription against what you keep when it stops, see [is Lindy worth it](https://lindyalternative.com/is-lindy-worth-it).
